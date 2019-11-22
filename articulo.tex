@@ -1,0 +1,185 @@
+\documentclass[conference]{IEEEtran}
+\IEEEoverridecommandlockouts
+% The preceding line is only needed to identify funding in the first footnote. If that is unneeded, please comment it out.
+\usepackage{cite}
+\usepackage{amsmath,amssymb,amsfonts}
+\usepackage{algorithmic}
+\usepackage{graphicx}
+\usepackage{textcomp}
+\usepackage{xcolor}
+\usepackage[utf8]{inputenc}
+\def\BibTeX{{\rm B\kern-.05em{\sc i\kern-.025em b}\\kern-.08em
+    T\kern-.1667em\lower.7ex\hbox{E}\kern-.125emX}}
+\begin{document}
+
+\title{Modelo hibrido de predicción de éxito de las ventas para empresas B2B}
+
+
+\author{\IEEEauthorblockN{1\textsuperscript{st} Matos Manguinuri,Steve Sader}
+\IEEEauthorblockA{\textit{Facultad de Ingeniería de Sistemas e}\\
+\textit{Informática} \\
+\textit{Universidad Nacional Mayor de San}\\
+\textit{Marcos}\\
+Lima, Perú \\
+steve.matos@unmsm.edu.pe}
+\and
+\IEEEauthorblockN{2\textsuperscript{nd} Calderón Vilca, Hugo David}
+\IEEEauthorblockA{\textit{Facultad de Ingeniería de Sistemas e}\\
+\textit{Informática} \\
+\textit{Universidad Nacional Mayor de San}\\
+\textit{Marcos}\\
+Lima, Perú}
+}
+
+\maketitle
+
+\begin{abstract}
+This document is a model and instructions for \LaTeX.
+This and the IEEEtran.cls file define the components of your paper [title, text, heads, etc.]. *CRITICAL: Do Not Use Symbols, Special Characters, Footnotes, 
+or Math in Paper Title or Abstract.
+\end{abstract}
+
+\begin{IEEEkeywords}
+component, formatting, style, styling, insert
+\end{IEEEkeywords}
+
+\section{Introduccion}
+\subsection{¿Problemas con el CRM?}
+Normalmente para los equipos de ventas reciben la implementación de un
+CRM en su estación de trabajo de mala manera , como [17] lo afirma en el
+artículo del periódico El Financiero .“ Ya que el equipo de ventas tenía tan
+pocos incentivos para mantener actualizados los datos solicitados, la
+calidad de estos en el sistema se volvió cada vez menos confiable durante el
+siguiente año.”. Esto provoca que el área de ventas sea la menos satisfecha
+con esta solución.
+Muchas empresas sufren un síndrome crónico en el que sus pronósticos de
+CRM se convierten en un registro histórico y no en una guía para el futuro
+[18] , estos datos al final se desperdician y no se usan para futuras
+predicciones de las próximas ventas.
+En conclusión, siempre la captación de clientes ha sido un tema vital para
+cualquier empresa y sobre todo si su área de marketing es algo vital para el
+negocio. Entonces la aplicación de una IA al área de ventas y sobre todo si usa un
+CRM, afectara a los ingresos de la empresa y también un ahorro enorme de horas
+hombres al área de ventas.
+
+\subsection{Aplicaciones de IA al área de ventas}
+Si bien la mayoría de los especialistas en marketing son expertos en leer informes
+y métricas estándar, pocos están capacitados para analizar datos de múltiples
+fuentes con la suficiente profundidad para informar mejores decisiones de
+negocios [19] , esto impide que sea difícil para el área de marketing puedan
+interpretar fácilmente la gran cantidad de datos que sea vengan de varias fuentes y
+da por consecuencia que el área de ventas es las más perjudicada con este decisión
+puesto que ellos son la parte operatoria y provocara que su área tenga que captar
+clientes ciegamente.
+El acceso a la inteligencia de marketing puede ayudar a las organizaciones a tomar
+decisiones más informadas sobre el gasto en publicidad para futuras campañas,
+segmentación de audiencia, combinación óptima de canales, etc [19] . Se refiere
+sobre todo a los conocimientos aplicando IA al área de marketing, esto repercute
+en un ahorro enorme de los gastos de marketing y también un ahorro de horas
+hombre del área de ventas.\\
+\section{TRABAJO RELACIONADOS}
+
+\subsection{Modelos hibridos para ventas}
+Se usaron diferentes modelos híbridos como ARIMA + BD Neural Network [3] y
+ARIMA + RNN [4] en el área de la predicción de ventas, además que en [24] se
+comparó modelos híbridos contra otros modelos usados en los últimos años.
+En técnicas de predicción de ventas , la investigación de [3] hallaron que la
+precisión del modelo hibrido (ARIMA + BD Neural Network ) que se planteo tiene un
+rango de precisión de 98 a 99% frente a [4] con su modelo hibrido ARIMA + RNN
+que logro un 97.36 , pero [3] el rango de predicción es a nivel mensual y no diaria
+como lo es [4] . También nos mencionan del modelo hibrido PDPF [24] , del cual
+supera a otros modelos comunes en la predicción de ventas como ARIMA , RVM ,
+PF y PD, y nos menciona que la fortaleza de este hibrido es la precisión a pesar de
+la poca data que se tenga, comparando con otros modelos que necesitan mucha
+data para dar una predicción aceptable.\\
+
+Además, en [36] se recalca que los métodos estadísticos pueden no lograr un
+resultado de predicción deseable. Por lo que uso de un ANN puede potencialmente
+mejorar la precisión de la previsión. Por ende nos menciona que los modelos
+híbridos(del cual se habló de otras investigaciones en el capítulo 2.1 de esta
+investigación) logran un mejor rendimiento porque pueden aprovechar los métodos
+tanto estadísticos como de un ANN. En [23] dan una serie de comparaciones entre
+muchos modelos tanto híbridos como otros que también son muy aplicados en la
+predicción de ventas el cual el modelo más efectivo es el de descomposición STL +
+Snaive, ARIMA y XGBoost (de forma individual) , del cual se afirma en el review que
+las técnicas de descomposición superan a las técnicas hibridas y las técnicas
+hibridas superan a los modelos individuales para la predicción de ventas.
+Y por ultimo en [49] , proponen un hibrido poco común del cual es el modelo de Bass
+/ Norton y el análisis de sentimientos, y es uno de los pocas investigaciones que
+considera los sentimientos expresados en el contenido de las revisiones en línea
+para la predicción de ventas, tanto del producto como en general.
+
+\subsection{Técnicas de predicción de ventas}
+En distintas investigación se usaron varias técnicas de deep learning para la
+predicción de ventas [1] [2] y también nuevos modelos [5] [6] [7] .
+En [1] se aplica deep learning a través de un DNN y se usa las variables más que
+todo del producto para poder predecir la cantidad de productos que se venderá de
+forma individual de acuerdo a 10 variables descritas en la misma investigación [1] .
+También [2] usa otra técnica de deep learning , el cual es PRNN , y mencionan que
+esta técnica supera a técnicas como SARIMA y ETS pero no a otros como MR ni E ,
+por ende es un alternativa viable pero aún falta su aplicación en un gran conjunto de
+series de tiempo de ventas.
+En cambio en la predicción de ventas [5] usaron el método multifuncional Holt-
+Winters y el método aditivo Holt-Winters pero en un modelo de predicción de ventas
+mensual usando data de un sistema ERP a diferencia de [6] que propone un nuevo
+modelo llamado TADA que consta de un codificador LSTM basado en tareas
+múltiples y el decodificador LSTM basado en la atención dual y lo puede predecir en
+diferentes series de tiempo , ademas que usa dos dataset ( OSW y Favorita ) para
+poder contractar los resultados de la aplicación del modelo en diferentes contexto lo
+cual supera en aspecto de cantidad y variedad de data a [5]
+
+\subsection{Técnicas de predicción de clientes}
+
+En distintas investigación se usaron varias técnicas de deep learning para la
+predicción de clientes [11] [12] y también nuevos modelos [13] [14] ,o el uso de
+tecnicas y modelos en un contexto nuevo [46] .
+En [11] se usó las variables de los clientes junto con el clima para ver el flujo de
+clientes a diferencia [12] que aplica más a las variables de los POS además que a
+diferencia de otras investigaciones se usó variables de regularizaciones para poder
+corregir.\\
+
+Para el problema de la predicción de flujo de clientes , En [13] se aplico el uso de
+clasificadores lineales y clasificadores basados pero solo usa el historial de
+comportamiento de cliente a diferencia de [14] que comenta que no solo los tiempos
+de clic, el tiempo de duración son los únicos factores que pueden demostrar las
+preferencias de los usuarios y es más estos son solo una parte de los factores que
+pueden demostrar las preferencias de los usuarios porque los factores que mas
+influyen en la compra de los usuarios dependen de los caracteres del propio usuario
+y del artículo por ende aplicaron Baying multinomial naive (MNB) con estos dos
+grandes conjuntos de características superando a la investigación de [13] en este
+aspecto.\\
+En [46] se propone el modelo de Bag-of-words , el cual es un nuevo modelo para
+este contexto, pero también nos menciona que lo usan en conjunto con proyecciones
+aleatorias para el tema de la curse-of-dimensional que aflige a los modelos bag-of-
+words. Aunque es modelo nuevo para este contexto, es muy competente en el
+problema de predicción de ventas.
+
+\section{METODOLOGÍA}
+La data será la base de datos de SEMINARIUM PERU S.A.C que alberga 939
+tablas. De lo cual se estima que se obtendrá más de 6000 datos con una cantidad de
+atributos importantes que se puede escoger para el uso de cualquier técnica.
+Se ha estimado que las tablas del cual se usará la data será de:
+\begin{itemize}
+    \item sale\_order : Tabla de ordenes de ventas
+    \item sale\_order\_line : Tabla de las líneas de ordenes de ventas
+    \item res\_partner : Tabla de clientes
+    \item crm\_lead : Tabla de las oportunidades e iniciativas
+    \item crm\_phonecall : Tabla de las llamadas
+\end{itemize}
+
+Incluyendo las tablas intermedias.
+
+\begin{thebibliography}{00}
+\bibitem{b1} G. Eason, B. Noble, and I. N. Sneddon, ``On certain integrals of Lipschitz-Hankel type involving products of Bessel functions,'' Phil. Trans. Roy. Soc. London, vol. A247, pp. 529--551, April 1955.
+\bibitem{b2} J. Clerk Maxwell, A Treatise on Electricity and Magnetism, 3rd ed., vol. 2. Oxford: Clarendon, 1892, pp.68--73.
+\bibitem{b3} I. S. Jacobs and C. P. Bean, ``Fine particles, thin films and exchange anisotropy,'' in Magnetism, vol. III, G. T. Rado and H. Suhl, Eds. New York: Academic, 1963, pp. 271--350.
+\bibitem{b4} K. Elissa, ``Title of paper if known,'' unpublished.
+\bibitem{b5} R. Nicole, ``Title of paper with only first word capitalized,'' J. Name Stand. Abbrev., in press.
+\bibitem{b6} Y. Yorozu, M. Hirano, K. Oka, and Y. Tagawa, ``Electron spectroscopy studies on magneto-optical media and plastic substrate interface,'' IEEE Transl. J. Magn. Japan, vol. 2, pp. 740--741, August 1987 [Digests 9th Annual Conf. Magnetics Japan, p. 301, 1982].
+\bibitem{b7} M. Young, The Technical Writer's Handbook. Mill Valley, CA: University Science, 1989.
+\end{thebibliography}
+\vspace{12pt}
+\color{red}
+IEEE conference templates contain guidance text for composing and formatting conference papers. Please ensure that all template text is removed from your conference paper prior to submission to the conference. Failure to remove the template text from your paper may result in your paper not being published.
+
+\end{document}
