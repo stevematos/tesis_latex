@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2019.11.13)  13 NOV 2019 18:07
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2019.11.9)  2 DEC 2019 04:31
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**/home/steve/universidad/tesis/articulo.tex
-(/home/steve/universidad/tesis/articulo.tex
+**"/home/steve/Ciclos linux/tesis/paper/tesis_latex/articulo.tex"
+(/home/steve/Ciclos linux/tesis/paper/tesis_latex/articulo.tex
 LaTeX2e <2017-04-15>
 Babel <3.18> and hyphenation patterns for 84 language(s) loaded.
 (/usr/share/texlive/texmf-dist/tex/latex/IEEEtran/IEEEtran.cls
@@ -294,10 +294,27 @@ Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
 Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
 Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+) (/usr/share/texlive/texmf-dist/tex/latex/tools/tabularx.sty
+Package: tabularx 2016/02/03 v2.11 `tabularx' package (DPC)
+ (/usr/share/texlive/texmf-dist/tex/latex/tools/array.sty
+Package: array 2016/10/06 v2.4d Tabular extension package (FMi)
+\col@sep=\dimen137
+\extrarowheight=\dimen138
+\NC@list=\toks21
+\extratabsurround=\skip49
+\backup@length=\skip50
+)
+\TX@col@width=\dimen139
+\TX@old@table=\dimen140
+\TX@old@col=\dimen141
+\TX@target=\dimen142
+\TX@delta=\dimen143
+\TX@cols=\count110
+\TX@ftn=\toks22
 ) (/usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty
 Package: inputenc 2015/03/17 v1.2c Input encoding file
-\inpenc@prehook=\toks21
-\inpenc@posthook=\toks22
+\inpenc@prehook=\toks23
+\inpenc@posthook=\toks24
  (/usr/share/texlive/texmf-dist/tex/latex/base/utf8.def
 File: utf8.def 2017/01/28 v1.1t UTF-8 support for inputenc
 Now handling font encoding OML ...
@@ -681,42 +698,53 @@ File: ts1enc.dfu 2017/01/28 v1.1t UTF-8 support for inputenc
    defining Unicode char U+2026 (decimal 8230)
    defining Unicode char U+2122 (decimal 8482)
    defining Unicode char U+2423 (decimal 9251)
-)) (/home/steve/universidad/tesis/articulo.aux)
+)) (/usr/share/texlive/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count111
+\float@exts=\toks25
+\float@box=\box30
+\@float@everytoks=\toks26
+\@floatcapt=\box31
+) (/home/steve/Ciclos linux/tesis/paper/tesis_latex/articulo.aux
+
+LaTeX Warning: Label `tab3' multiply defined.
+
+)
 \openout1 = `articulo.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 13.
-LaTeX Font Info:    Try loading font information for TS1+cmr on input line 13.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 19.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 19.
  (/usr/share/texlive/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    ... okay on input line 19.
 
 -- Lines per column: 56 (exact).
 (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count110
-\scratchdimen=\dimen137
-\scratchbox=\box30
-\nofMPsegments=\count111
-\nofMParguments=\count112
-\everyMPshowfont=\toks23
-\MPscratchCnt=\count113
-\MPscratchDim=\dimen138
-\MPnumerator=\count114
-\makeMPintoPDFobject=\count115
-\everyMPtoPDFconversion=\toks24
+\scratchcounter=\count112
+\scratchdimen=\dimen144
+\scratchbox=\box32
+\nofMPsegments=\count113
+\nofMParguments=\count114
+\everyMPshowfont=\toks27
+\MPscratchCnt=\count115
+\MPscratchDim=\dimen145
+\MPnumerator=\count116
+\makeMPintoPDFobject=\count117
+\everyMPtoPDFconversion=\toks28
 ) (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
 Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
  (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/infwarerr.sty
@@ -758,35 +786,232 @@ Package grfext Info: Graphics extension search list:
  (/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 ))
-LaTeX Font Info:    Calculating math sizes for size <11> on input line 34.
-LaTeX Font Info:    Try loading font information for U+msa on input line 34.
+LaTeX Font Info:    Calculating math sizes for size <11> on input line 40.
+LaTeX Font Info:    Try loading font information for U+msa on input line 40.
  (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 34.
+LaTeX Font Info:    Try loading font information for U+msb on input line 40.
  (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-)
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <6> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 37.
-
-Underfull \hbox (badness 10000) in paragraph at lines 66--80
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 83--95
-
- []
-
-[1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}
+) [1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}
 
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 133--140
+Underfull \hbox (badness 10000) in paragraph at lines 75--78
 
  []
 
+[2]
+Underfull \hbox (badness 10000) in paragraph at lines 118--119
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 120--122
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 183--188
+
+ []
+
+[3]
+Underfull \hbox (badness 10000) in paragraph at lines 203--204
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 216--218
+
+ []
+
+
+Underfull \hbox (badness 4556) in paragraph at lines 220--222
+ \OT1/ptm/m/it/10 2) LSTM: [][] \OT1/ptm/m/n/10 Es una ar-qui-tec-tura de re-des neu-ronales
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 220--222
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 263--264
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 273--274
+
+ []
+
+<Imagenes/ETL.png, id=20, 351.3125pt x 799.98875pt>
+File: Imagenes/ETL.png Graphic file (type png)
+<use Imagenes/ETL.png>
+Package pdftex.def Info: Imagenes/ETL.png  used on input line 277.
+(pdftex.def)             Requested size: 140.5225pt x 319.98984pt.
+<Imagenes/HLM.png, id=22, 683.55376pt x 137.51375pt>
+File: Imagenes/HLM.png Graphic file (type png)
+<use Imagenes/HLM.png>
+Package pdftex.def Info: Imagenes/HLM.png  used on input line 287.
+(pdftex.def)             Requested size: 258.0pt x 51.90324pt.
+
+Overfull \hbox (6.0pt too wide) in paragraph at lines 287--288
+ [][] 
+ []
+
+[4 </home/steve/Ciclos linux/tesis/paper/tesis_latex/Imagenes/ETL.png>]
+<Imagenes/LSTM.png, id=29, 392.46625pt x 753.81625pt>
+File: Imagenes/LSTM.png Graphic file (type png)
+<use Imagenes/LSTM.png>
+Package pdftex.def Info: Imagenes/LSTM.png  used on input line 296.
+(pdftex.def)             Requested size: 258.01645pt x 398.33598pt.
+
+Overfull \hbox (6.01645pt too wide) in paragraph at lines 296--297
+ [][] 
+ []
+
+<Imagenes/modelo_completo.png, id=30, 703.62875pt x 396.48125pt>
+File: Imagenes/modelo_completo.png Graphic file (type png)
+<use Imagenes/modelo_completo.png>
+Package pdftex.def Info: Imagenes/modelo_completo.png  used on input line 322.
+(pdftex.def)             Requested size: 258.0pt x 145.37689pt.
+
+Overfull \hbox (6.0pt too wide) in paragraph at lines 322--323
+ [][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 319--325
+
+ []
+
+<Imagenes/metricas/prediccion.png, id=31, 376.40625pt x 264.99pt>
+File: Imagenes/metricas/prediccion.png Graphic file (type png)
+<use Imagenes/metricas/prediccion.png>
+Package pdftex.def Info: Imagenes/metricas/prediccion.png  used on input line 345.
+(pdftex.def)             Requested size: 258.0pt x 181.64644pt.
+
+Overfull \hbox (6.0pt too wide) in paragraph at lines 345--346
+ [][] 
+ []
+
+
+Underfull \vbox (badness 1377) has occurred while \output is active []
+
+ [5 </home/steve/Ciclos linux/tesis/paper/tesis_latex/Imagenes/HLM.png> </home/steve/Ciclos linux/tesis/paper/tesis_latex/Imagenes/LSTM.png> </home/steve/Ciclos linux/tesis/paper/tesis_latex/Imagenes/modelo_completo.png>]
+<Imagenes/metricas/perdida.png, id=37, 403.5075pt x 279.0425pt>
+File: Imagenes/metricas/perdida.png Graphic file (type png)
+<use Imagenes/metricas/perdida.png>
+Package pdftex.def Info: Imagenes/metricas/perdida.png  used on input line 353.
+(pdftex.def)             Requested size: 258.0pt x 178.42052pt.
+
+Overfull \hbox (6.0pt too wide) in paragraph at lines 353--354
+ [][] 
+ []
+
+<Imagenes/metricas/mean_absolute_error.png, id=38, 396.48125pt x 279.0425pt>
+File: Imagenes/metricas/mean_absolute_error.png Graphic file (type png)
+<use Imagenes/metricas/mean_absolute_error.png>
+Package pdftex.def Info: Imagenes/metricas/mean_absolute_error.png  used on input line 360.
+(pdftex.def)             Requested size: 258.0pt x 181.5841pt.
+
+Overfull \hbox (6.0pt too wide) in paragraph at lines 360--361
+ [][] 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+<Imagenes/metricas/mean_absolute_percentege_error.png, id=39, 390.45876pt x 279.0425pt>
+File: Imagenes/metricas/mean_absolute_percentege_error.png Graphic file (type png)
+<use Imagenes/metricas/mean_absolute_percentege_error.png>
+Package pdftex.def Info: Imagenes/metricas/mean_absolute_percentege_error.png  used on input line 367.
+(pdftex.def)             Requested size: 258.0pt x 184.39001pt.
+
+Overfull \hbox (6.0pt too wide) in paragraph at lines 367--368
+ [][] 
+ []
+
+
+Underfull \hbox (badness 2027) in paragraph at lines 364--370
+[]\OT1/ptm/m/n/10 De igual man-era el er-ror medio ab-so-luto por-centual
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 364--370
+
+ []
+
+<Imagenes/metricas/rmse.png, id=40, 396.48125pt x 279.0425pt>
+File: Imagenes/metricas/rmse.png Graphic file (type png)
+<use Imagenes/metricas/rmse.png>
+Package pdftex.def Info: Imagenes/metricas/rmse.png  used on input line 374.
+(pdftex.def)             Requested size: 258.0pt x 181.5841pt.
+
+Overfull \hbox (6.0pt too wide) in paragraph at lines 374--375
+ [][] 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [6 </home/steve/Ciclos linux/tesis/paper/tesis_latex/Imagenes/metricas/prediccion.png> </home/steve/Ciclos linux/tesis/paper/tesis_latex/Imagenes/metricas/perdida.png> </home/steve/Ciclos linux/tesis/paper/tesis_latex/Imagenes/metricas/mean_absolute_error.png> </home/steve/Ciclos linux/tesis/paper/tesis_latex/Imagenes/metricas/mean_absolute_percentege_error.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 415--416
+
+ []
+
+[7 </home/steve/Ciclos linux/tesis/paper/tesis_latex/Imagenes/metricas/rmse.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 434--435
+[]\OT1/ptm/m/n/8 B. Suh, "Sales Teams Aren't Great at Fore-cast-ing. Here's
+ []
+
+
+Underfull \hbox (badness 6477) in paragraph at lines 434--435
+\OT1/ptm/m/n/8 How to Fix That.", 19 Marzo 2019. [En l[]^^Pnea]. Avail-able:
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 434--435
+\OT1/ptm/m/n/8 https://hbr.org/2019/03/sales-teams-arent-great-at-forecasting-heres-
+ []
+
+
+Underfull \hbox (badness 1466) in paragraph at lines 435--436
+\OT1/ptm/m/n/8 In Mar-ket-ing Op-er-a-tions", 10 Abril 2019. [En l[]^^Pnea]. Avail-able:
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 435--436
+\OT1/ptm/m/n/8 https://www.forbes.com/sites/forbestechcouncil/2019/04/10/how-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 435--436
+\OT1/ptm/m/n/8 to-access-intelligence-data-driven-transformation-in-marketing-
+ []
+
+
+Underfull \hbox (badness 4132) in paragraph at lines 436--437
+[]\OT1/ptm/m/n/8 L. Bul-lock, "Con-tent Mar-ket-ing Lead Gen-er-a-tion Tac-tics That
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 436--437
+\OT1/ptm/m/n/8 https://www.forbes.com/sites/lilachbullock/2019/03/28/content-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 436--437
+\OT1/ptm/m/n/8 marketing-lead-generation-tactics-that-actually-work-in-
+ []
+
+LaTeX Font Info:    Try loading font information for TS1+ptm on input line 439.
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/ts1ptm.fd
+File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
+)
 
 ** Conference Paper **
 Before submitting the final camera ready copy, remember to:
@@ -798,20 +1023,24 @@ Before submitting the final camera ready copy, remember to:
  uses only Type 1 fonts and that every step in the generation
  process uses the appropriate paper size.
 
-[2] (/home/steve/universidad/tesis/articulo.aux) ) 
+[8] (/home/steve/Ciclos linux/tesis/paper/tesis_latex/articulo.aux)
+
+LaTeX Warning: There were multiply-defined labels.
+
+ ) 
 Here is how much of TeX's memory you used:
- 4740 strings out of 492982
- 66573 string characters out of 6134895
- 135828 words of memory out of 5000000
- 8221 multiletter control sequences out of 15000+600000
- 44766 words of font info for 101 fonts, out of 8000000 for 9000
+ 4994 strings out of 492982
+ 70624 string characters out of 6134896
+ 150212 words of memory out of 5000000
+ 8452 multiletter control sequences out of 15000+600000
+ 44264 words of font info for 99 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 41i,11n,35p,352b,302s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmbi8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on /home/steve/universidad/tesis/articulo.pdf (2 pages, 72203 bytes).
+ 41i,16n,35p,2118b,302s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmbi8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
+Output written on "/home/steve/Ciclos linux/tesis/paper/tesis_latex/articulo.pdf" (8 pages, 350923 bytes).
 PDF statistics:
- 32 PDF objects out of 1000 (max. 8388607)
- 22 compressed objects within 1 object stream
+ 90 PDF objects out of 1000 (max. 8388607)
+ 52 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 46 words of extra memory for PDF output out of 10000 (max. 10000000)
 

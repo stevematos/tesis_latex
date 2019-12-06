@@ -1,10 +1,10 @@
-PWD /home/steve/universidad/tesis
+PWD /home/steve/Ciclos linux/tesis/paper/tesis_latex
 INPUT /etc/texmf/web2c/texmf.cnf
 INPUT /usr/share/texmf/web2c/texmf.cnf
 INPUT /usr/share/texlive/texmf-dist/web2c/texmf.cnf
 INPUT /var/lib/texmf/web2c/pdftex/pdflatex.fmt
-INPUT /home/steve/universidad/tesis/articulo.tex
-OUTPUT /home/steve/universidad/tesis/articulo.log
+INPUT /home/steve/Ciclos linux/tesis/paper/tesis_latex/articulo.tex
+OUTPUT /home/steve/Ciclos linux/tesis/paper/tesis_latex/articulo.log
 INPUT /usr/share/texlive/texmf-dist/tex/latex/IEEEtran/IEEEtran.cls
 INPUT /usr/share/texlive/texmf-dist/tex/latex/IEEEtran/IEEEtran.cls
 INPUT /usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1ptm.fd
@@ -90,6 +90,10 @@ INPUT /usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty
 INPUT /usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty
 INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg
 INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg
+INPUT /usr/share/texlive/texmf-dist/tex/latex/tools/tabularx.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/tools/tabularx.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/tools/array.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/tools/array.sty
 INPUT /usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty
 INPUT /usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty
 INPUT /usr/share/texlive/texmf-dist/tex/latex/base/utf8.def
@@ -102,9 +106,11 @@ INPUT /usr/share/texlive/texmf-dist/tex/latex/base/omsenc.dfu
 INPUT /usr/share/texlive/texmf-dist/tex/latex/base/omsenc.dfu
 INPUT /usr/share/texlive/texmf-dist/tex/latex/base/ts1enc.dfu
 INPUT /usr/share/texlive/texmf-dist/tex/latex/base/ts1enc.dfu
-INPUT /home/steve/universidad/tesis/articulo.aux
-INPUT /home/steve/universidad/tesis/articulo.aux
-OUTPUT /home/steve/universidad/tesis/articulo.aux
+INPUT /usr/share/texlive/texmf-dist/tex/latex/float/float.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/float/float.sty
+INPUT /home/steve/Ciclos linux/tesis/paper/tesis_latex/articulo.aux
+INPUT /home/steve/Ciclos linux/tesis/paper/tesis_latex/articulo.aux
+OUTPUT /home/steve/Ciclos linux/tesis/paper/tesis_latex/articulo.aux
 INPUT /usr/share/texlive/texmf-dist/tex/latex/base/ts1cmr.fd
 INPUT /usr/share/texlive/texmf-dist/tex/latex/base/ts1cmr.fd
 INPUT /usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
@@ -153,24 +159,8 @@ INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm7.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm5.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/adobe/times/ptmr7t.tfm
-INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmr9.tfm
-INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmr6.tfm
-INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmmi9.tfm
-INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmmi6.tfm
-INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmsy9.tfm
-INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmsy6.tfm
-INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex9.tfm
-INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm
-INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm
-INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam10.tfm
-INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam7.tfm
-INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam5.tfm
-INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
-INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm7.tfm
-INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm5.tfm
-INPUT /usr/share/texlive/texmf-dist/fonts/tfm/adobe/times/ptmb7t.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/adobe/times/ptmrc7t.tfm
-OUTPUT /home/steve/universidad/tesis/articulo.pdf
+OUTPUT /home/steve/Ciclos linux/tesis/paper/tesis_latex/articulo.pdf
 INPUT /usr/share/texlive/texmf-dist/fonts/vf/adobe/times/ptmr7t.vf
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/adobe/times/ptmr8r.tfm
 INPUT /var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map
@@ -186,18 +176,67 @@ INPUT /usr/share/texlive/texmf-dist/fonts/vf/adobe/times/ptmbi7t.vf
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/adobe/times/ptmbi8r.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/vf/adobe/times/ptmb7t.vf
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/adobe/times/ptmb8r.tfm
-INPUT /usr/share/texlive/texmf-dist/fonts/vf/adobe/times/ptmb7t.vf
-INPUT /usr/share/texlive/texmf-dist/fonts/tfm/adobe/times/ptmb8r.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/vf/adobe/times/ptmrc7t.vf
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/adobe/times/ptmr8r.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam10.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam7.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam5.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm7.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm5.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/adobe/times/ptmrc7t.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmr6.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmmi6.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmsy6.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex8.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam10.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam7.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm7.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/vf/adobe/times/ptmr7t.vf
-INPUT /home/steve/universidad/tesis/articulo.aux
+INPUT /usr/share/texlive/texmf-dist/fonts/vf/adobe/times/ptmrc7t.vf
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/adobe/times/ptmr8r.tfm
+INPUT /home/steve/Ciclos linux/tesis/paper/tesis_latex/Imagenes/ETL.png
+INPUT /home/steve/Ciclos linux/tesis/paper/tesis_latex/Imagenes/ETL.png
+INPUT /home/steve/Ciclos linux/tesis/paper/tesis_latex/Imagenes/ETL.png
+INPUT /home/steve/Ciclos linux/tesis/paper/tesis_latex/Imagenes/HLM.png
+INPUT /home/steve/Ciclos linux/tesis/paper/tesis_latex/Imagenes/HLM.png
+INPUT /home/steve/Ciclos linux/tesis/paper/tesis_latex/Imagenes/HLM.png
+INPUT /home/steve/Ciclos linux/tesis/paper/tesis_latex/Imagenes/LSTM.png
+INPUT /home/steve/Ciclos linux/tesis/paper/tesis_latex/Imagenes/LSTM.png
+INPUT /home/steve/Ciclos linux/tesis/paper/tesis_latex/Imagenes/LSTM.png
+INPUT /home/steve/Ciclos linux/tesis/paper/tesis_latex/Imagenes/modelo_completo.png
+INPUT /home/steve/Ciclos linux/tesis/paper/tesis_latex/Imagenes/modelo_completo.png
+INPUT /home/steve/Ciclos linux/tesis/paper/tesis_latex/Imagenes/modelo_completo.png
+INPUT /home/steve/Ciclos linux/tesis/paper/tesis_latex/Imagenes/metricas/prediccion.png
+INPUT /home/steve/Ciclos linux/tesis/paper/tesis_latex/Imagenes/metricas/prediccion.png
+INPUT /home/steve/Ciclos linux/tesis/paper/tesis_latex/Imagenes/metricas/prediccion.png
+INPUT /home/steve/Ciclos linux/tesis/paper/tesis_latex/Imagenes/metricas/perdida.png
+INPUT /home/steve/Ciclos linux/tesis/paper/tesis_latex/Imagenes/metricas/perdida.png
+INPUT /home/steve/Ciclos linux/tesis/paper/tesis_latex/Imagenes/metricas/perdida.png
+INPUT /home/steve/Ciclos linux/tesis/paper/tesis_latex/Imagenes/metricas/mean_absolute_error.png
+INPUT /home/steve/Ciclos linux/tesis/paper/tesis_latex/Imagenes/metricas/mean_absolute_error.png
+INPUT /home/steve/Ciclos linux/tesis/paper/tesis_latex/Imagenes/metricas/mean_absolute_error.png
+INPUT /home/steve/Ciclos linux/tesis/paper/tesis_latex/Imagenes/metricas/mean_absolute_percentege_error.png
+INPUT /home/steve/Ciclos linux/tesis/paper/tesis_latex/Imagenes/metricas/mean_absolute_percentege_error.png
+INPUT /home/steve/Ciclos linux/tesis/paper/tesis_latex/Imagenes/metricas/mean_absolute_percentege_error.png
+INPUT /home/steve/Ciclos linux/tesis/paper/tesis_latex/Imagenes/metricas/rmse.png
+INPUT /home/steve/Ciclos linux/tesis/paper/tesis_latex/Imagenes/metricas/rmse.png
+INPUT /home/steve/Ciclos linux/tesis/paper/tesis_latex/Imagenes/metricas/rmse.png
+INPUT /usr/share/texlive/texmf-dist/tex/latex/psnfss/ts1ptm.fd
+INPUT /usr/share/texlive/texmf-dist/tex/latex/psnfss/ts1ptm.fd
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/adobe/times/ptmr8c.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/vf/adobe/times/ptmr8c.vf
+INPUT /home/steve/Ciclos linux/tesis/paper/tesis_latex/articulo.aux
 INPUT /usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc
+INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb
+INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb
+INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb
+INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb
+INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb
 INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb
 INPUT /usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmb8a.pfb
 INPUT /usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmbi8a.pfb
