@@ -449,6 +449,40 @@ Entonces los resultados finales son :
     \label{tab3}
 \end{table}
 
+\section{APLICATIVO}
+Se desarrollo un aplicativo Web , que esta constituido por :
+\begin{itemize}
+    \item BackEnd : Se desarrollo en Flask , y las librerias que usan son :
+    \begin{itemize}
+        \item keras
+        \item blueprints
+        \item tensorflow
+    \end{itemize}
+    \item FrontEnd: Se desarrollo en ReactJS , del cual consume al backend.
+\end{itemize}
+
+Y el resultado fue:
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=0.5\textwidth]{aplicativo/sin_datos}
+    \caption{Aplicativo Web sin Datos}
+    \label{fig:aplicativo_sin_datos}
+\end{figure}
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=0.5\textwidth]{aplicativo/con_datos}
+    \caption{Aplicativo Web con Datos}
+    \label{fig:aplicativo_con_datos}
+\end{figure}
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=0.5\textwidth]{aplicativo/con_datos_resultado}
+    \caption{Aplicativo Web con Datos y Resultado}
+    \label{fig:aplicativo_con_datos_resultado}
+\end{figure}
+
+
+
 \section{DISCUSION}
 Las investigaciones \cite{b3}, \cite{b4} (data de apple - data.world) , \cite{b20} usan el monto total obtenido en una serie de tiempo  , otros como \cite{b22} usan algunos datos de ventas , pero solo en el contexto de ventas de moda e incluso alguno como \cite{b24} agregaban análisis de sentimientos. Pero la fuente principal de una venta es el cliente y sobre todo datos tan relevantes como el tamaño de la empresa, sus ventas anteriores e incluso si esta fidelizado con la vendedora. Por lo que el dataset de esta investigación se concentra precisamente en esos datos que en otras investigaciones no han tomado en cuenta.\\
 Después de entrenar el modelo LSTM que predice el éxito de la venta es necesario hacer una comparación del desempeño con otras soluciones ante el problema de predicción de ventas pero en la investigación que se ha realizado hemos detectado que muchos de los autores hablan de la predicción de ventas como el monto total ganado de la venta en un periodo de tiempo\cite{b2}\cite{b5}\cite{b6} que logran entre 95\% a 98\% de precisión, algunos otros hablan de la predicción de flujo de clientes\cite{b11}\cite{b12}\cite{b13}\cite{b14} que logran entre 80\% a 85\% de precisión  e incluso algunos han juntado datos del producto\cite{b1} con las de venta  en el cual se mide con la métrica R2 que logra un 0.727 , pero ninguno habla de éxito de la predicción de la venta de forma individual contando con las variables de la venta como la del cliente por lo que en esta investigación se desarrolló la predicción de la venta de forma individual del cual el resultado es probabilidad de éxito de la venta y esto permitirá que tanto la gerencia comercial como la gerencia de marketing puedan analizar y “atacar” las ventas de forma más precisa.\\

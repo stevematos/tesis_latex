@@ -1,8 +1,8 @@
 # Fdb version 3
-["pdflatex"] 1575679136 "/home/steve/Ciclos linux/tesis/paper/tesis_latex/articulo.tex" "/home/steve/Ciclos linux/tesis/paper/tesis_latex/articulo.pdf" "articulo" 1575679137
+["pdflatex"] 1575688974 "/home/steve/Ciclos linux/tesis/paper/tesis_latex/articulo.tex" "/home/steve/Ciclos linux/tesis/paper/tesis_latex/articulo.pdf" "articulo" 1575688975
   "/etc/texmf/web2c/texmf.cnf" 1573293416 475 c0e671620eb5563b2130f56340a5fde8 ""
-  "/home/steve/Ciclos linux/tesis/paper/tesis_latex/articulo.aux" 1575679137 5899 ba7a5d9937ac6396744a3230ba80dec7 ""
-  "/home/steve/Ciclos linux/tesis/paper/tesis_latex/articulo.tex" 1575679136 36256 438e17c33dcfcf5e9b92f05b8b49368d ""
+  "/home/steve/Ciclos linux/tesis/paper/tesis_latex/articulo.aux" 1575688975 6436 1d33fc5adcf4ee90b36983a573527922 ""
+  "/home/steve/Ciclos linux/tesis/paper/tesis_latex/articulo.tex" 1575688973 37242 6e41db4ec1f510a9374558770c68ecd2 ""
   "/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc" 1480098666 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1511824771 3332 103109f5612ad95229751940c61aada0 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/adobe/times/ptmb7t.tfm" 1480098689 2172 fd0c924230362ff848a33632ed45dc23 ""
@@ -102,6 +102,9 @@
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1573293488 2700761 ac0584cc9514ab21918550a6948c4ee2 ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1573293498 4128908 89a5632fb960f7b8bc4ac75bf222ae21 ""
   "Imagenes/LSTM.png" 1575678245 39128 6c19b1774dc5e0e14ad446bd72ebb7c2 ""
+  "Imagenes/aplicativo/con_datos.png" 1575688779 28759 91b2ce406a8e45c7e20c0ba5043ea45d ""
+  "Imagenes/aplicativo/con_datos_resultado.png" 1575688740 31204 d0f2c306739cd561fd730b29ce518353 ""
+  "Imagenes/aplicativo/sin_datos.png" 1575688926 33063 be43d752399b26df3adb9f1ba35c64d4 ""
   "Imagenes/metricas/mean_absolute_error.png" 1575678855 34528 7c3f7798f43cba774aca6785f18240c7 ""
   "Imagenes/metricas/perdida.png" 1575678858 29510 365ee2fcc161fb509f9b330eb6a1054a ""
   "Imagenes/metricas/prediccion.png" 1575679128 72420 607b4ccc5f992af525c832ba21bda22a ""
@@ -114,11 +117,11 @@
   "Imagenes/preprocesamiento/data_antes_balanceo.png" 1575675021 19259 f1bf5eba1dddac2cb1b7decb04141106 ""
   "Imagenes/preprocesamiento/data_despues_balanceo.png" 1575675030 21039 6b9f588641c59be0712f3357f8dec2a9 ""
   "Imagenes/preprocesamiento/query_extraccion.png" 1575673187 59710 038af8e51d36cbd4ba96c63edc746031 ""
-  "articulo.aux" 1575679137 5899 ba7a5d9937ac6396744a3230ba80dec7 ""
-  "articulo.tex" 1575679136 36256 438e17c33dcfcf5e9b92f05b8b49368d ""
+  "articulo.aux" 1575688975 6436 1d33fc5adcf4ee90b36983a573527922 ""
+  "articulo.tex" 1575688973 37242 6e41db4ec1f510a9374558770c68ecd2 ""
   (generated)
+  "articulo.pdf"
   "articulo.log"
+  "/home/steve/Ciclos linux/tesis/paper/tesis_latex/articulo.pdf"
   "articulo.aux"
   "/home/steve/Ciclos linux/tesis/paper/tesis_latex/articulo.log"
-  "articulo.pdf"
-  "/home/steve/Ciclos linux/tesis/paper/tesis_latex/articulo.pdf"
