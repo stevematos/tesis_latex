@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2019.11.9)  2 DEC 2019 04:31
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2019.11.9)  6 DEC 2019 19:38
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -311,7 +311,9 @@ Package: array 2016/10/06 v2.4d Tabular extension package (FMi)
 \TX@delta=\dimen143
 \TX@cols=\count110
 \TX@ftn=\toks22
-) (/usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty
+) (/usr/share/texlive/texmf-dist/tex/latex/comment/comment.sty
+\CommentStream=\write3
+ Excluding comment 'comment') (/usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty
 Package: inputenc 2015/03/17 v1.2c Input encoding file
 \inpenc@prehook=\toks23
 \inpenc@posthook=\toks24
@@ -712,24 +714,24 @@ LaTeX Warning: Label `tab3' multiply defined.
 )
 \openout1 = `articulo.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 19.
-LaTeX Font Info:    Try loading font information for TS1+cmr on input line 19.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 20.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 20.
  (/usr/share/texlive/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    ... okay on input line 20.
 
 -- Lines per column: 56 (exact).
 (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
@@ -786,229 +788,315 @@ Package grfext Info: Graphics extension search list:
  (/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 ))
-LaTeX Font Info:    Calculating math sizes for size <11> on input line 40.
-LaTeX Font Info:    Try loading font information for U+msa on input line 40.
+LaTeX Font Info:    Calculating math sizes for size <11> on input line 59.
+LaTeX Font Info:    Try loading font information for U+msa on input line 59.
  (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 40.
+LaTeX Font Info:    Try loading font information for U+msb on input line 59.
  (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-) [1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}
+)
+Underfull \hbox (badness 1521) in paragraph at lines 73--80
+\OT1/ptm/m/n/10 predicci[]on de ven-tas se us-aron mod-e-los como ARIMA
+ []
+
+
+Underfull \hbox (badness 3009) in paragraph at lines 73--80
+\OT1/ptm/m/n/10 es-tad[]^^Pstico , y donde ac-tual-mente otras in-ves-ti-ga-ciones
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 73--80
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 81--84
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 85--91
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 92--99
+
+ []
+
+[1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}
 
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 75--78
+Underfull \hbox (badness 10000) in paragraph at lines 100--102
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 103--107
+\OT1/ptm/m/n/10 Es-tas tec-nolog[]^^Pas per-miten m[]etodos au-tom-a-ti-za-dos y
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 103--107
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 108--122
+
+ []
+
+
+Underfull \hbox (badness 2478) in paragraph at lines 123--129
+\OT1/ptm/m/n/10 de ven-tas m[]as pre-cisas son im-por-tantes para ne-go-cios
+ []
+
+
+Underfull \hbox (badness 2828) in paragraph at lines 123--129
+\OT1/ptm/m/n/10 m[]as ganan-cia a menor costo, adem[]as mu-chos de los
+ []
+
+
+Underfull \hbox (badness 2913) in paragraph at lines 123--129
+\OT1/ptm/m/n/10 al-go-rit-mos de in-teligen-cia ar-ti-fi-cial pueden us-arse para
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 123--129
+
+ []
+
+
+Underfull \hbox (badness 1859) in paragraph at lines 130--135
+\OT1/ptm/m/n/10 ar-ti-fi-cial para ayu-dar a iden-ti-ficar cu[]al de sus clientes
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 130--135
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 136--138
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 139--141
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 152--158
 
  []
 
 [2]
-Underfull \hbox (badness 10000) in paragraph at lines 118--119
+Underfull \hbox (badness 10000) in paragraph at lines 159--164
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 120--122
+Underfull \hbox (badness 10000) in paragraph at lines 204--205
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 183--188
+Underfull \hbox (badness 10000) in paragraph at lines 248--249
 
  []
 
 [3]
-Underfull \hbox (badness 10000) in paragraph at lines 203--204
+<Imagenes/preprocesamiento/query_extraccion.png, id=17, 547.04375pt x 282.05376pt>
+File: Imagenes/preprocesamiento/query_extraccion.png Graphic file (type png)
+<use Imagenes/preprocesamiento/query_extraccion.png>
+Package pdftex.def Info: Imagenes/preprocesamiento/query_extraccion.png  used on input line 262.
+(pdftex.def)             Requested size: 258.0pt x 133.02577pt.
 
+Overfull \hbox (6.0pt too wide) in paragraph at lines 262--263
+ [][] 
  []
 
+<Imagenes/preprocesamiento/codigo_balanceo.png, id=18, 430.60875pt x 109.40875pt>
+File: Imagenes/preprocesamiento/codigo_balanceo.png Graphic file (type png)
+<use Imagenes/preprocesamiento/codigo_balanceo.png>
+Package pdftex.def Info: Imagenes/preprocesamiento/codigo_balanceo.png  used on input line 273.
+(pdftex.def)             Requested size: 258.0pt x 65.55392pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 216--218
-
+Overfull \hbox (6.0pt too wide) in paragraph at lines 273--274
+ [][] 
  []
 
+<Imagenes/preprocesamiento/data_antes_balanceo.png, id=19, 408.52625pt x 132.495pt>
+File: Imagenes/preprocesamiento/data_antes_balanceo.png Graphic file (type png)
+<use Imagenes/preprocesamiento/data_antes_balanceo.png>
+Package pdftex.def Info: Imagenes/preprocesamiento/data_antes_balanceo.png  used on input line 280.
+(pdftex.def)             Requested size: 258.0pt x 83.68051pt.
 
-Underfull \hbox (badness 4556) in paragraph at lines 220--222
- \OT1/ptm/m/it/10 2) LSTM: [][] \OT1/ptm/m/n/10 Es una ar-qui-tec-tura de re-des neu-ronales
+Overfull \hbox (6.0pt too wide) in paragraph at lines 280--281
+ [][] 
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 220--222
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 263--264
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 273--274
-
- []
-
-<Imagenes/ETL.png, id=20, 351.3125pt x 799.98875pt>
-File: Imagenes/ETL.png Graphic file (type png)
-<use Imagenes/ETL.png>
-Package pdftex.def Info: Imagenes/ETL.png  used on input line 277.
-(pdftex.def)             Requested size: 140.5225pt x 319.98984pt.
-<Imagenes/HLM.png, id=22, 683.55376pt x 137.51375pt>
-File: Imagenes/HLM.png Graphic file (type png)
-<use Imagenes/HLM.png>
-Package pdftex.def Info: Imagenes/HLM.png  used on input line 287.
-(pdftex.def)             Requested size: 258.0pt x 51.90324pt.
+<Imagenes/preprocesamiento/data_despues_balanceo.png, id=20, 413.545pt x 134.5025pt>
+File: Imagenes/preprocesamiento/data_despues_balanceo.png Graphic file (type png)
+<use Imagenes/preprocesamiento/data_despues_balanceo.png>
+Package pdftex.def Info: Imagenes/preprocesamiento/data_despues_balanceo.png  used on input line 287.
+(pdftex.def)             Requested size: 258.0pt x 83.91402pt.
 
 Overfull \hbox (6.0pt too wide) in paragraph at lines 287--288
  [][] 
  []
 
-[4 </home/steve/Ciclos linux/tesis/paper/tesis_latex/Imagenes/ETL.png>]
-<Imagenes/LSTM.png, id=29, 392.46625pt x 753.81625pt>
+<Imagenes/preprocesamiento/cantidad_nulos.png, id=21, 372.39125pt x 139.52126pt>
+File: Imagenes/preprocesamiento/cantidad_nulos.png Graphic file (type png)
+<use Imagenes/preprocesamiento/cantidad_nulos.png>
+Package pdftex.def Info: Imagenes/preprocesamiento/cantidad_nulos.png  used on input line 298.
+(pdftex.def)             Requested size: 186.19516pt x 69.76045pt.
+<Imagenes/preprocesamiento/antes_despues_limpieza.png, id=22, 472.76625pt x 334.24875pt>
+File: Imagenes/preprocesamiento/antes_despues_limpieza.png Graphic file (type png)
+<use Imagenes/preprocesamiento/antes_despues_limpieza.png>
+Package pdftex.def Info: Imagenes/preprocesamiento/antes_despues_limpieza.png  used on input line 312.
+(pdftex.def)             Requested size: 258.0pt x 182.40932pt.
+
+Overfull \hbox (6.0pt too wide) in paragraph at lines 312--313
+ [][] 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [4 </home/steve/Ciclos linux/tesis/paper/tesis_latex/Imagenes/preprocesamiento/query_extraccion.png> </home/steve/Ciclos linux/tesis/paper/tesis_latex/Imagenes/preprocesamiento/codigo_balanceo.png> </home/steve/Ciclos linux/tesis/paper/tesis_latex/Imagenes/preprocesamiento/data_antes_balanceo.png> </home/steve/Ciclos linux/tesis/paper/tesis_latex/Imagenes/preprocesamiento/data_despues_balanceo.png> </home/steve/Ciclos linux/tesis/paper/tesis_latex/Imagenes/preprocesamiento/cantidad_nulos.png>]
+<Imagenes/preprocesamiento/antes_despues_numerizacion.png, id=30, 440.64626pt x 337.26pt>
+File: Imagenes/preprocesamiento/antes_despues_numerizacion.png Graphic file (type png)
+<use Imagenes/preprocesamiento/antes_despues_numerizacion.png>
+Package pdftex.def Info: Imagenes/preprocesamiento/antes_despues_numerizacion.png  used on input line 346.
+(pdftex.def)             Requested size: 258.0pt x 197.47385pt.
+
+Overfull \hbox (6.0pt too wide) in paragraph at lines 346--347
+ [][] 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+<Imagenes/preprocesamiento/correlacion_datos.png, id=31, 496.85625pt x 413.545pt>
+File: Imagenes/preprocesamiento/correlacion_datos.png Graphic file (type png)
+<use Imagenes/preprocesamiento/correlacion_datos.png>
+Package pdftex.def Info: Imagenes/preprocesamiento/correlacion_datos.png  used on input line 354.
+(pdftex.def)             Requested size: 258.0pt x 214.74174pt.
+
+Overfull \hbox (6.0pt too wide) in paragraph at lines 354--355
+ [][] 
+ []
+
+<Imagenes/LSTM.png, id=32, 392.46625pt x 753.81625pt>
 File: Imagenes/LSTM.png Graphic file (type png)
 <use Imagenes/LSTM.png>
-Package pdftex.def Info: Imagenes/LSTM.png  used on input line 296.
+Package pdftex.def Info: Imagenes/LSTM.png  used on input line 365.
 (pdftex.def)             Requested size: 258.01645pt x 398.33598pt.
 
-Overfull \hbox (6.01645pt too wide) in paragraph at lines 296--297
- [][] 
- []
-
-<Imagenes/modelo_completo.png, id=30, 703.62875pt x 396.48125pt>
-File: Imagenes/modelo_completo.png Graphic file (type png)
-<use Imagenes/modelo_completo.png>
-Package pdftex.def Info: Imagenes/modelo_completo.png  used on input line 322.
-(pdftex.def)             Requested size: 258.0pt x 145.37689pt.
-
-Overfull \hbox (6.0pt too wide) in paragraph at lines 322--323
+Overfull \hbox (6.01645pt too wide) in paragraph at lines 365--366
  [][] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 319--325
+Underfull \vbox (badness 1910) has occurred while \output is active []
+
+ [5 </home/steve/Ciclos linux/tesis/paper/tesis_latex/Imagenes/preprocesamiento/antes_despues_limpieza.png> </home/steve/Ciclos linux/tesis/paper/tesis_latex/Imagenes/preprocesamiento/antes_despues_numerizacion.png> </home/steve/Ciclos linux/tesis/paper/tesis_latex/Imagenes/preprocesamiento/correlacion_datos.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 388--389
 
  []
 
-<Imagenes/metricas/prediccion.png, id=31, 376.40625pt x 264.99pt>
+<Imagenes/metricas/prediccion.png, id=37, 528.97626pt x 394.47375pt>
 File: Imagenes/metricas/prediccion.png Graphic file (type png)
 <use Imagenes/metricas/prediccion.png>
-Package pdftex.def Info: Imagenes/metricas/prediccion.png  used on input line 345.
-(pdftex.def)             Requested size: 258.0pt x 181.64644pt.
+Package pdftex.def Info: Imagenes/metricas/prediccion.png  used on input line 405.
+(pdftex.def)             Requested size: 258.0pt x 192.39696pt.
 
-Overfull \hbox (6.0pt too wide) in paragraph at lines 345--346
+Overfull \hbox (6.0pt too wide) in paragraph at lines 405--406
  [][] 
  []
 
-
-Underfull \vbox (badness 1377) has occurred while \output is active []
-
- [5 </home/steve/Ciclos linux/tesis/paper/tesis_latex/Imagenes/HLM.png> </home/steve/Ciclos linux/tesis/paper/tesis_latex/Imagenes/LSTM.png> </home/steve/Ciclos linux/tesis/paper/tesis_latex/Imagenes/modelo_completo.png>]
-<Imagenes/metricas/perdida.png, id=37, 403.5075pt x 279.0425pt>
+<Imagenes/metricas/perdida.png, id=38, 546.04pt x 394.47375pt>
 File: Imagenes/metricas/perdida.png Graphic file (type png)
 <use Imagenes/metricas/perdida.png>
-Package pdftex.def Info: Imagenes/metricas/perdida.png  used on input line 353.
-(pdftex.def)             Requested size: 258.0pt x 178.42052pt.
+Package pdftex.def Info: Imagenes/metricas/perdida.png  used on input line 413.
+(pdftex.def)             Requested size: 258.0pt x 186.3838pt.
 
-Overfull \hbox (6.0pt too wide) in paragraph at lines 353--354
+Overfull \hbox (6.0pt too wide) in paragraph at lines 413--414
  [][] 
  []
 
-<Imagenes/metricas/mean_absolute_error.png, id=38, 396.48125pt x 279.0425pt>
+<Imagenes/metricas/mean_absolute_error.png, id=39, 541.02126pt x 375.4025pt>
 File: Imagenes/metricas/mean_absolute_error.png Graphic file (type png)
 <use Imagenes/metricas/mean_absolute_error.png>
-Package pdftex.def Info: Imagenes/metricas/mean_absolute_error.png  used on input line 360.
-(pdftex.def)             Requested size: 258.0pt x 181.5841pt.
+Package pdftex.def Info: Imagenes/metricas/mean_absolute_error.png  used on input line 420.
+(pdftex.def)             Requested size: 258.0pt x 179.0226pt.
 
-Overfull \hbox (6.0pt too wide) in paragraph at lines 360--361
+Overfull \hbox (6.0pt too wide) in paragraph at lines 420--421
  [][] 
  []
 
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-<Imagenes/metricas/mean_absolute_percentege_error.png, id=39, 390.45876pt x 279.0425pt>
-File: Imagenes/metricas/mean_absolute_percentege_error.png Graphic file (type png)
-<use Imagenes/metricas/mean_absolute_percentege_error.png>
-Package pdftex.def Info: Imagenes/metricas/mean_absolute_percentege_error.png  used on input line 367.
-(pdftex.def)             Requested size: 258.0pt x 184.39001pt.
-
-Overfull \hbox (6.0pt too wide) in paragraph at lines 367--368
- [][] 
- []
-
-
-Underfull \hbox (badness 2027) in paragraph at lines 364--370
-[]\OT1/ptm/m/n/10 De igual man-era el er-ror medio ab-so-luto por-centual
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 364--370
-
- []
-
-<Imagenes/metricas/rmse.png, id=40, 396.48125pt x 279.0425pt>
+[6 </home/steve/Ciclos linux/tesis/paper/tesis_latex/Imagenes/LSTM.png> </home/steve/Ciclos linux/tesis/paper/tesis_latex/Imagenes/metricas/prediccion.png> </home/steve/Ciclos linux/tesis/paper/tesis_latex/Imagenes/metricas/perdida.png>]
+<Imagenes/metricas/rmse.png, id=44, 569.12625pt x 384.43625pt>
 File: Imagenes/metricas/rmse.png Graphic file (type png)
 <use Imagenes/metricas/rmse.png>
-Package pdftex.def Info: Imagenes/metricas/rmse.png  used on input line 374.
-(pdftex.def)             Requested size: 258.0pt x 181.5841pt.
+Package pdftex.def Info: Imagenes/metricas/rmse.png  used on input line 427.
+(pdftex.def)             Requested size: 258.0pt x 174.27936pt.
 
-Overfull \hbox (6.0pt too wide) in paragraph at lines 374--375
+Overfull \hbox (6.0pt too wide) in paragraph at lines 427--428
  [][] 
  []
 
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [6 </home/steve/Ciclos linux/tesis/paper/tesis_latex/Imagenes/metricas/prediccion.png> </home/steve/Ciclos linux/tesis/paper/tesis_latex/Imagenes/metricas/perdida.png> </home/steve/Ciclos linux/tesis/paper/tesis_latex/Imagenes/metricas/mean_absolute_error.png> </home/steve/Ciclos linux/tesis/paper/tesis_latex/Imagenes/metricas/mean_absolute_percentege_error.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 415--416
-
- []
-
-[7 </home/steve/Ciclos linux/tesis/paper/tesis_latex/Imagenes/metricas/rmse.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 434--435
+[7 </home/steve/Ciclos linux/tesis/paper/tesis_latex/Imagenes/metricas/mean_absolute_error.png> </home/steve/Ciclos linux/tesis/paper/tesis_latex/Imagenes/metricas/rmse.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 483--484
 []\OT1/ptm/m/n/8 B. Suh, "Sales Teams Aren't Great at Fore-cast-ing. Here's
  []
 
 
-Underfull \hbox (badness 6477) in paragraph at lines 434--435
+Underfull \hbox (badness 6477) in paragraph at lines 483--484
 \OT1/ptm/m/n/8 How to Fix That.", 19 Marzo 2019. [En l[]^^Pnea]. Avail-able:
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 434--435
+Underfull \hbox (badness 10000) in paragraph at lines 483--484
 \OT1/ptm/m/n/8 https://hbr.org/2019/03/sales-teams-arent-great-at-forecasting-heres-
  []
 
 
-Underfull \hbox (badness 1466) in paragraph at lines 435--436
+Underfull \hbox (badness 1466) in paragraph at lines 484--485
 \OT1/ptm/m/n/8 In Mar-ket-ing Op-er-a-tions", 10 Abril 2019. [En l[]^^Pnea]. Avail-able:
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 435--436
+Underfull \hbox (badness 10000) in paragraph at lines 484--485
 \OT1/ptm/m/n/8 https://www.forbes.com/sites/forbestechcouncil/2019/04/10/how-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 435--436
+Underfull \hbox (badness 10000) in paragraph at lines 484--485
 \OT1/ptm/m/n/8 to-access-intelligence-data-driven-transformation-in-marketing-
  []
 
 
-Underfull \hbox (badness 4132) in paragraph at lines 436--437
+Underfull \hbox (badness 4132) in paragraph at lines 485--486
 []\OT1/ptm/m/n/8 L. Bul-lock, "Con-tent Mar-ket-ing Lead Gen-er-a-tion Tac-tics That
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 436--437
+Underfull \hbox (badness 10000) in paragraph at lines 485--486
 \OT1/ptm/m/n/8 https://www.forbes.com/sites/lilachbullock/2019/03/28/content-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 436--437
+Underfull \hbox (badness 10000) in paragraph at lines 485--486
 \OT1/ptm/m/n/8 marketing-lead-generation-tactics-that-actually-work-in-
  []
 
-LaTeX Font Info:    Try loading font information for TS1+ptm on input line 439.
+LaTeX Font Info:    Try loading font information for TS1+ptm on input line 488.
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/ts1ptm.fd
 File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
 )
@@ -1029,18 +1117,18 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 4994 strings out of 492982
- 70624 string characters out of 6134896
- 150212 words of memory out of 5000000
- 8452 multiletter control sequences out of 15000+600000
- 44264 words of font info for 99 fonts, out of 8000000 for 9000
+ 5057 strings out of 492982
+ 72721 string characters out of 6134896
+ 143140 words of memory out of 5000000
+ 8504 multiletter control sequences out of 15000+600000
+ 45371 words of font info for 100 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 41i,16n,35p,2118b,302s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmbi8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on "/home/steve/Ciclos linux/tesis/paper/tesis_latex/articulo.pdf" (8 pages, 350923 bytes).
+ 41i,12n,35p,1235b,302s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmbi8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
+Output written on "/home/steve/Ciclos linux/tesis/paper/tesis_latex/articulo.pdf" (8 pages, 613692 bytes).
 PDF statistics:
- 90 PDF objects out of 1000 (max. 8388607)
- 52 compressed objects within 1 object stream
+ 83 PDF objects out of 1000 (max. 8388607)
+ 49 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 46 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 66 words of extra memory for PDF output out of 10000 (max. 10000000)
 
